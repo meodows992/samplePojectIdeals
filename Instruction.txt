@@ -1,2 +1,2 @@
 This are some of the project that I have done during my polytehcnic, you could that a look and feel free to copy some of the codes ideal. 
-The codes are in java you minght need to import from eclipes 
+The codes are in java you might need to import from eclipes 
